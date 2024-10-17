@@ -17,4 +17,40 @@ body{
 }
 #cow{
       color: purple;
+      font-size: 45px;
+      text-shadow: 9px 9px 9px blue;
+}
+.card-title{
+              color: blue;
+        font-family: "Ruge Boogie",cursive;
+        font-weight: 1000;
+         font-style: italic;
+         text-shadow: 4px 4px 4px ;
+}
+#Earphones{
+            color: black;
+            font-size: 50px;
+
+}
+#Noise{
+          color:chartreuse;
+        font-size: 35px;
+        height: 100px;
+
+}
+#Vision{
+          color:blueviolet;
+          text-shadow: 5px 5px 5px blue;
+          font-size: 30px;
+          text-shadow: 7px 7px 7px yellow;
+}
+#Pro{
+          font-family: "Dancing Script",cursive;
+          font-optical-sizing: auto;
+          font-weight: <weight>;
+          font-style: normal;
+          color: red;
+          text-shadow: 6px 6px 6px;
+          font-size: 35px;
+
 }
