@@ -3,10 +3,13 @@
         font-weight: 700;
         font-style: normal;
         font-size: 75px;
-        text-shadow: 3px 3px 3px whitesmoke;
+        text-shadow: 9px 9px 9px blueviolet;
+        color:blue
 }
+       
+
 body{
-       height:1000px;
+       height: 2700px;
         background-color: red;
         background-image: linear-gradient(to top right,purple,red,blue,green,orange,yellow);
         text-align: centre;
@@ -47,10 +50,18 @@ body{
 #Pro{
           font-family: "Dancing Script",cursive;
           font-optical-sizing: auto;
-          font-weight: <weight>;
+    
           font-style: normal;
           color: red;
           text-shadow: 6px 6px 6px;
           font-size: 35px;
 
+}
+#my-carousel {
+        height: 50%;
+        overflow:hidden;
+}
+#Arham{
+         color: red;
+         background: yellow;
 }
